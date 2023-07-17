@@ -1,0 +1,14 @@
+strings:
+  inputs: Resources/Strings/en.lproj/Localizable.strings
+  outputs:
+    - templateName: structured-swift5
+      output: Resources/Strings/Strings.swift
+      params:
+        enumName: Strings
+xcassets:
+  - inputs: Resources/Assets/Assets.xcassets
+    outputs:
+      - templateName: swift5
+        output: Resources/Assets/Assets.swift
+        params:
+          enumName: Assets

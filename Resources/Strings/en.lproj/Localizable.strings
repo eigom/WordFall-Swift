@@ -1,0 +1,22 @@
+"gamePlay.intro.word" = "WordFall";
+"gamePlay.intro.definition.type" = "noun";
+"gamePlay.intro.definition.text" = "a word game where you form words and names from falling letters";
+"gamePlay.nextButton.title" = "NEXT";
+"gamePlay.solveButton.title" = "REVEAL";
+"gamePlay.solveButton.purchase.subtitle" = "get for %@";
+"gamePlay.solveButton.revealsLeft.subtitle" = "%@ left";
+"gamePlay.settingsButton.title" = "⦿";
+"gamePlay.purchaseAlert.title" = "%@";
+"gamePlay.purchaseAlert.purchaseAction.title" = "Get for %@";
+
+"settings.wordLength.title" = "WORD LENGTH";
+"settings.wordLength.all" = "All";
+"settings.sound.title" = "SOUND";
+"settings.sound.on" = "On";
+"settings.sound.off" = "Off";
+"settings.restorePurchasesButton.title" = "Restore purchase";
+"settings.restorePurchasesButton.restoringTitle" = "restoring...";
+
+"alert.defaultTitle" = "Word Fall";
+"alert.action.dismiss" = "OK";
+"alert.action.cancel" = "Cancel";

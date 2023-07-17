@@ -1,0 +1,39 @@
+{
+  "identifier" : "BDFABCFB",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : true,
+      "internalID" : "6445466599",
+      "localizations" : [
+        {
+          "description" : "Reveal any word instantly",
+          "displayName" : "Word Revealing",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "autosolve",
+      "referenceName" : "Auto-solve",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1665721593",
+    "_askToBuyEnabled" : false,
+    "_billingIssuesEnabled" : false,
+    "_developerTeamID" : "3Z3949Y4B2",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 696495566.76390803,
+    "_storeKitError" : 0
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
